@@ -2,9 +2,9 @@
 ======================
 
 ###Lista de comandos de Python
-1.
-2.
-3.
+1. HOLA MUNDO   
+2. PRIMERO EN LEER TODO 
+3. ESTE TUTORIAL
 
 
 ###Lista de comandos de GIT
