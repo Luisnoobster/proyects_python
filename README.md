@@ -13,4 +13,15 @@
 git init
 3. Checar el estado del repo
 git status
-4. 
+4. Agregar Archivos
+git add
+nombreArchivo.Extension
+5. Crear commit(Historial)
+del codigo 
+git commit -m "Descripcion"
+6. Agregar repositorio remoto
+git add remotes origin master http://direccion/repo
+7. subir cambios por primera vez
+git push -u origin master
+8. checar historial de cambios
+git log
